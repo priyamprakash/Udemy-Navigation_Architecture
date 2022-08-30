@@ -13,6 +13,7 @@ import com.anushka.navdemo5.databinding.FragmentWelcomeBinding
 import kotlinx.android.synthetic.main.fragment_welcome.*
 
 /**
+ * Welcome from Priyam
  * A simple [Fragment] subclass.
  */
 class WelcomeFragment : Fragment() {
