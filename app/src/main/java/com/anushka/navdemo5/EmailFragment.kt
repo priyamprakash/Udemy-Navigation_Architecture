@@ -16,7 +16,7 @@ import com.anushka.navdemo5.databinding.FragmentNameBinding
 import kotlinx.android.synthetic.main.fragment_email.*
 
 /**
- * A simple [Fragment] subclass.
+ * A simple [Fragment] subclass. - Email Fragment
  */
 class EmailFragment : Fragment() {
 
